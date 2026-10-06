@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered application enhances forest fire prevention by enabling real-time risk monitoring, patrol recording, and alerts for field officers and agencies.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
